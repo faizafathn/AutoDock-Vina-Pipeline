@@ -21,10 +21,6 @@ Install dependencies (if required):
 pip install numpy pandas
 
 ## Usage
-<<<<<<< HEAD
-
-
-=======
 ### *1. Prepare Input Files*
 - **Place receptor .pdbqt files in your working directory.**
 - **Place ligand .pdbqt files in your working directory.**
